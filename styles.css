@@ -8,13 +8,12 @@
   --light-blue: #2c7dfa;
 }
 
-.body {
+body {
   margin: 0;
   padding: 0;
-  border: 0;
 }
 
-#main {
+main {
   background-color: var(--light-gray);
   width: 100vw;
   height: 100vh;
